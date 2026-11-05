@@ -1,5 +1,7 @@
 # RawEyeDataFix
 
+## No longer needed as of Resonite version 2026.11.5.80
+
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that fixes [issue #6573](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/6573).
 
 It's very quick n' dirty, but it's basically a single line change from the original. It checks if the eye tracking source is actually active before using the data from it.
